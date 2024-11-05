@@ -1,0 +1,15 @@
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/bin/Debug/net8.0/PracticingListsAndArrays
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/bin/Debug/net8.0/PracticingListsAndArrays.deps.json
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/bin/Debug/net8.0/PracticingListsAndArrays.runtimeconfig.json
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/bin/Debug/net8.0/PracticingListsAndArrays.dll
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/bin/Debug/net8.0/PracticingListsAndArrays.pdb
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.AssemblyInfoInputs.cache
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.AssemblyInfo.cs
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.csproj.CoreCompileInputs.cache
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.sourcelink.json
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.dll
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/refint/PracticingListsAndArrays.dll
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.pdb
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/PracticingListsAndArrays.genruntimeconfig.cache
+/Users/carlymead/Desktop/repos/PracticingListsAndArrays/PracticingListsAndArrays/obj/Debug/net8.0/ref/PracticingListsAndArrays.dll
