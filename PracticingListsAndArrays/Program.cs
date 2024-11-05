@@ -7,18 +7,13 @@ class Program
     static void Main(string[] args)
     {
         var carlyFavs = new List<string>();
-
-        var negativeNumbers = new List<int>();
-
-        for (int i = 1; i < 67; i+=2)
+        carlyFavs.Add("Puppies");
+        foreach (var things in carlyFavs)
         {
-            negativeNumbers.Add(i);
+            Console.WriteLine(things);
         }
 
-        Console.WriteLine("Negative numbers less than 67 include:");
-        foreach (var number in negativeNumbers)
-        {
-            Console.WriteLine(number);
-        }
+        var oddNumbers = new ListNegativeNumbers();
+        oddNumbers.GetOddNumbers(67);
     }
 }
