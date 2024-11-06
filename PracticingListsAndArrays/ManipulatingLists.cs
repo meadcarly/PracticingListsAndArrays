@@ -8,30 +8,14 @@ public class ManipulatingLists
     public List<int> RemoveEvenAndMultiply(List<int> input)
     {
         input.RemoveAll(x => x % 2 == 0);
-        /*var newInput = new List<int> { };
-        foreach (var number in input)
-        {
-            if (number % 2 == 0)
-            {
-                continue;
-            }
-            else
-            {
-                newInput.Add(number);
-            }
-        }
 
-        foreach (var num in newInput)
+        for (int i = 0; i < input.Count; i++)
         {
-            newInput.() = num * 2;
+            input[i] *= 2;
         }
+        
+        input.Sort();
 
-        newInput.Sort();
-        foreach (var newNumber in newInput)
-        {
-            Console.WriteLine(newNumber);
-        }
-
-        return newInput;
-    }*/
+        return input;
+    }
 }

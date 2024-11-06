@@ -13,11 +13,5 @@ public class ListNegativeNumbers
         }
 
         return oddNumbers;
-
-        Console.WriteLine($"Odd numbers less than {range} include:");
-        foreach (var number in oddNumbers)
-        {
-            Console.WriteLine(number);
-        }
     }
 }
